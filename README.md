@@ -5,8 +5,8 @@
 </div>
 
 ##
-- 🔭 Atualmente estudo no Instituto Federal Baiano - Campus Guanambi
-- 🌱 Estou aprendendo Java, JS e algumas outras linguagens
+- 📖 Atualmente estudo no Instituto Federal Baiano - Campus Guanambi
+- 📚 Estou aprendendo Java, JS e algumas outras linguagens
 - 👯 Procuro por novas pessoas que tenham interesse nas mesmas tecnologias
 - 💬 Contate-me via email: lucasmasafi@gmail.com
 
