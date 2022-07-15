@@ -1,7 +1,7 @@
 ## Oi, Me chamo Lucas Macena 👻
 
 <div style="display: inline_block"><br>
-  <img align="right" alt="macena-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/originals/dc/ef/3a/dcef3abedf0e0761203aaeb85886a6f3.jpg">
+  <img align="right" alt="macena-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/baracktocat.jpg">
 </div>
 
 ##
