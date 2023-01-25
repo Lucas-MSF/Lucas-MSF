@@ -7,7 +7,7 @@
 
 - 📖 Atualmente estudo no Instituto Federal Baiano - Campus Guanambi
 - 📚 Sempre buscando aprender novas linguagens
-- 🕵 Procuro por novas pessoas que tenham interesse nas mesmas tecnologias
+- 🕵 Procuro por novas pessoas que tenham interesse em novas tecnologias
 
 ## Redes para contato
 <a href="https://www.linkedin.com/in/lucas-macena-978588235/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> <a href="mailto:lucasmasafi@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
