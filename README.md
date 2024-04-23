@@ -1,4 +1,4 @@
-## Oi, Me chamo Lucas Macena 👻
+## Oi, Me chamo Lucas Macena 
 
 <div style="display: inline_block"><br>
   <img align="right" alt="macena-pic" height="150" style="border-radius:50px;" src="https://octodex.github.com/images/baracktocat.jpg">
