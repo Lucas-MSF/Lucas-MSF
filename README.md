@@ -6,6 +6,7 @@
 
 
 - 📖 Atualmente estudo no Instituto Federal Baiano - Campus Guanambi
+- 📖 Trabalho como desenvolvedor php pleno
 - 📚 Sempre buscando aprender novas linguagens
 - 🕵 Procuro por novas pessoas que tenham interesse em novas tecnologias
 
